@@ -1,0 +1,76 @@
+﻿@model IS_Proekt.Domain.Book
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1>Edit Book</h1>
+    </div>
+
+    <div class="card shadow border-0 rounded">
+        <div class="card-body p-4">
+            <h4 class="card-title mb-4">Edit Book Information</h4>
+            <hr />
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger mb-4"></div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Title" class="form-label"></label>
+                    <input asp-for="Title" class="form-control form-control-lg" />
+                    <span asp-validation-for="Title" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Description" class="form-label"></label>
+                    <textarea asp-for="Description" class="form-control form-control-lg" rows="3"></textarea>
+                    <span asp-validation-for="Description" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="CoverImage" class="form-label"></label>
+                    <input asp-for="CoverImage" class="form-control form-control-lg" />
+                    <span asp-validation-for="CoverImage" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Price" class="form-label"></label>
+                    <input asp-for="Price" class="form-control form-control-lg" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-3">
+                    <label asp-for="Rating" class="form-label"></label>
+                    <input asp-for="Rating" class="form-control form-control-lg" />
+                    <span asp-validation-for="Rating" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="AuthorId" class="form-label">Author</label>
+                    <select asp-for="AuthorId" class="form-control form-control-lg" asp-items="ViewBag.AuthorId"></select>
+                    <span asp-validation-for="AuthorId" class="text-danger"></span>
+                </div>
+
+                <div class="form-group mb-4">
+                    <label asp-for="PublisherId" class="form-label">Publisher</label>
+                    <select asp-for="PublisherId" class="form-control form-control-lg" asp-items="ViewBag.PublisherId"></select>
+                    <span asp-validation-for="PublisherId" class="text-danger"></span>
+                </div>
+
+                <input type="hidden" asp-for="Id" />
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary btn-lg" />
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-action="Index" class="btn btn-secondary btn-lg">Back to List</a>
+    </div>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

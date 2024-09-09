@@ -1,0 +1,44 @@
+﻿@model List<IS_Proekt.Domain.Book>
+
+@{
+    ViewData["Title"] = "Books";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+<div class="container">
+    <div class="text-center mb-4">
+        <h1>Books</h1>
+        <a class="btn btn-success" asp-controller="Books" asp-action="Create">Add new book</a>
+    </div>
+
+    @for (int i = 0; i < Model.Count; i++)
+    {
+        var item = Model[i];
+        if (i % 3 == 0)
+        {
+            @:<div class="row">
+            }
+            <div class="col-3 m-4">
+                <div class="card" style="width: 18rem; height: 35rem">
+                    <img class="card-img-top" src="@item.CoverImage" alt="Book image">
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Title</h5>
+                        <p class="card-text">@item.Description</p>
+                        <h6>Price: @item.Price</h6>
+                    </div>
+                    <div class="card-footer">
+                        <a asp-controller="Books" asp-action="Edit" asp-route-id="@item.Id" class="btn btn-info">Edit</a>
+                        <a asp-controller="Books" asp-action="AddToCart" asp-route-id="@item.Id" class="btn btn-info">Add to Cart</a>
+                        <a asp-controller="Books" asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                    </div>
+                </div>
+            </div>
+
+            if (i % 3 == 2)
+            {
+            @:</div>
+        }
+    }
+</div>

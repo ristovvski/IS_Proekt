@@ -1,0 +1,112 @@
+﻿@model IS_Proekt.Domain.Book
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container mt-5">
+    <div class="text-center mb-4">
+        <h1 class="display-4">Book Details</h1>
+    </div>
+
+    <div class="card shadow-lg border-0 rounded">
+        <div class="card-body p-5">
+            <h4 class="card-title mb-4">Book Information</h4>
+            <hr />
+            <dl class="row">
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Title)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Title)
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Description)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Description)
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.CoverImage)
+                </dt>
+                <dd class="col-sm-8">
+                    <img src="@Html.DisplayFor(model => model.CoverImage)" class="img-fluid rounded" alt="Book Cover">
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Price)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Price)
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Rating)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Rating)
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Author)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Author.FullName)
+                </dd>
+                <dt class="col-sm-4 font-weight-bold text-primary">
+                    @Html.DisplayNameFor(model => model.Publisher)
+                </dt>
+                <dd class="col-sm-8">
+                    @Html.DisplayFor(model => model.Publisher.Name)
+                </dd>
+            </dl>
+        </div>
+    </div>
+
+    <div class="text-center mt-4">
+        <a asp-action="Edit" asp-route-id="@Model?.Id" class="btn btn-outline-primary btn-lg mr-2">Edit</a>
+        <a asp-action="Index" class="btn btn-outline-secondary btn-lg">Back to List</a>
+    </div>
+</div>
+
+<style>
+    .container {
+        background: #2e2e2e;
+        color: #f8f9fa;
+    }
+
+    .card {
+        background: #3b3b3b;
+        border: none;
+    }
+
+    .card-title {
+        color: #00d4ff;
+    }
+
+    .text-primary {
+        color: #00d4ff !important;
+    }
+
+    .btn-outline-primary {
+        border-color: #00d4ff;
+        color: #00d4ff;
+    }
+
+        .btn-outline-primary:hover {
+            background-color: #00d4ff;
+            color: #fff;
+        }
+
+    .btn-outline-secondary {
+        border-color: #6c757d;
+        color: #6c757d;
+    }
+
+        .btn-outline-secondary:hover {
+            background-color: #6c757d;
+            color: #fff;
+        }
+
+    .img-fluid {
+        max-height: 300px;
+        object-fit: cover;
+    }
+</style>
