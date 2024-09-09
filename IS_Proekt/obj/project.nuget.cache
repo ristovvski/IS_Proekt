@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xy6LRs/8kFzXtg5I6grAEZGIe134oe1AhNKt0J1tKsIqZL6mg8h0Fi+nyKTer+SWLVXRgR7LGM1ApSlu68lvOQ==",
+  "dgSpecHash": "oetoMbNs+txC0GxD0PTWPlJCRJh7vgv57XkjkGur3/UjwfOTUBvts5gJ26/QS/iQ9G4ID8PzVs3XaEE0NqbJmA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\IS_Proekt.csproj",
+  "projectFilePath": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stefan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Stefan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

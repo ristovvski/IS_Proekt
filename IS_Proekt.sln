@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IS_Proekt", "IS_Proekt\IS_Proekt.csproj", "{92BB8941-B6AF-49EA-AD3E-19229E007785}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Web", "IS_Proekt\Web.csproj", "{92BB8941-B6AF-49EA-AD3E-19229E007785}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{C40DA630-A85E-4484-B71E-863A76A7B45A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{C40DA630-A85E-4484-B71E-863A76A7B45A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Repository", "Repository\Repository.csproj", "{04AD451B-E478-4581-B43A-C4F8F31F3214}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repository", "Repository\Repository.csproj", "{04AD451B-E478-4581-B43A-C4F8F31F3214}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{E1CAF0C3-D1F4-4077-9E8F-FA71B3521FD2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Service", "Service\Service.csproj", "{E1CAF0C3-D1F4-4077-9E8F-FA71B3521FD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

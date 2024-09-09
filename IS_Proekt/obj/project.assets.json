@@ -9105,9 +9105,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\IS_Proekt.csproj",
-      "projectName": "IS_Proekt",
-      "projectPath": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\IS_Proekt.csproj",
+      "projectUniqueName": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\Web.csproj",
+      "projectName": "Web",
+      "projectPath": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\Web.csproj",
       "packagesPath": "C:\\Users\\Stefan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Stefan\\Downloads\\Integrirani-Sistemi-master\\IS_Proekt\\IS_Proekt\\obj\\",
       "projectStyle": "PackageReference",
