@@ -15,3 +15,4 @@ C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Service\obj\Debug
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Service\obj\Debug\net8.0\refint\Service.dll
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Service\obj\Debug\net8.0\Service.pdb
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Service\obj\Debug\net8.0\ref\Service.dll
+C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Service\obj\Debug\net8.0\Service.sourcelink.json

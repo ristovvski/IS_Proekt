@@ -13,3 +13,4 @@ C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Repository\obj\De
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Repository\obj\Debug\net8.0\refint\Repository.dll
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Repository\obj\Debug\net8.0\Repository.pdb
 C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Repository\obj\Debug\net8.0\ref\Repository.dll
+C:\Users\Stefan\Downloads\Integrirani-Sistemi-master\IS_Proekt\Repository\obj\Debug\net8.0\Repository.sourcelink.json
