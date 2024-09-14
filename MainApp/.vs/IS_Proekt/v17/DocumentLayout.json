@@ -1,10 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\",
+  "WorkspaceRootPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\domain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|solutionrelative:domain\\domain\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\domain\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|solutionrelative:domain\\dto\\userregistrationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\domain\\identity\\bookstoreapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|solutionrelative:domain\\identity\\bookstoreapplicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\controllers\\shoppingcartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\shoppingcarts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_IS_Proekt_81a41bb2_ea7a_44f8_bd62_123d4bc6278a/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
@@ -13,124 +29,112 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_IS_Proekt_81a41bb2_ea7a_44f8_bd62_123d4bc6278a/True/SqlTable/dbo.Orders.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Publishers\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\publishers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Publishers\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\publishers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Publishers\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\publishers\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Publishers\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\publishers\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Publishers\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\publishers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Authors\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\authors\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Authors\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\authors\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Authors\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Authors\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Authors\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Books\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Books\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Books\\Details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Books\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Books\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\Home\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Implementation\\Repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|solutionrelative:repository\\implementation\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Service\\Implementation\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\Implementation\\OrderService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E1CAF0C3-D1F4-4077-9E8F-FA71B3521FD2}|Service\\Service.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1CAF0C3-D1F4-4077-9E8F-FA71B3521FD2}|Service\\Service.csproj|solutionrelative:service\\implementation\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\Implementation\\OrderRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|solutionrelative:repository\\implementation\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Domain\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40DA630-A85E-4484-B71E-863A76A7B45A}|Domain\\Domain.csproj|solutionrelative:domain\\domain\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Identity\\BookStoreApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\Identity\\BookStoreApplicationUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AD451B-E478-4581-B43A-C4F8F31F3214}|Repository\\Repository.csproj|solutionrelative:repository\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Repository\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\controllers\\api\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\API\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Controllers\\API\\AdminController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\DTO\\UserRegistrationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Domain\\DTO\\UserRegistrationDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\views\\shoppingcarts\\successpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Controllers\\BooksController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\ShoppingCartsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:IS_Proekt\\Controllers\\ShoppingCartsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|c:\\users\\bxbi\\source\\repos\\is_proekt\\mainapp\\is_proekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{92BB8941-B6AF-49EA-AD3E-19229E007785}|IS_Proekt\\Web.csproj|solutionrelative:is_proekt\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -140,7 +144,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 37,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -168,11 +172,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain\\Book.cs",
+              "RelativeDocumentMoniker": "Domain\\Domain\\Book.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain\\Book.cs",
+              "RelativeToolTip": "Domain\\Domain\\Book.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T22:15:21.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Index.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Publishers\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Index.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Publishers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -180,11 +197,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Edit.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Publishers\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Edit.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Publishers\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -192,11 +209,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Details.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Publishers\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Details.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Publishers\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -204,11 +221,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Delete.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Publishers\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Delete.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Publishers\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -216,11 +233,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Create.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Publishers\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Publishers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Publishers\\Create.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Publishers\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAwCkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -228,11 +245,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Details.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Authors\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Details.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Authors\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -240,11 +257,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Delete.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Authors\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Delete.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Authors\\Delete.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -252,11 +269,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Edit.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Authors\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Edit.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Authors\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -264,11 +281,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Index.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Authors\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Index.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Authors\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -276,11 +293,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Create.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Authors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Authors\\Create.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Authors\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -288,11 +305,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Delete.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Books\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Delete.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Books\\Delete.cshtml",
               "ViewState": "AQIAAC4AAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -300,11 +317,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 18,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Edit.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Books\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Edit.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Books\\Edit.cshtml",
               "ViewState": "AQIAADIAAAAAAAAAAAAAAEwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -312,11 +329,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Details.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Books\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Details.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Books\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -324,11 +341,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Books\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Create.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Books\\Create.cshtml",
               "ViewState": "AQIAADQAAAAAAAAAAAAAAE4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -336,11 +353,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Books\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Books\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -348,11 +365,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAABcAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -360,11 +377,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -372,11 +389,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\Repository.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Implementation\\Repository.cs",
               "RelativeDocumentMoniker": "Repository\\Implementation\\Repository.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\Repository.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Implementation\\Repository.cs",
               "RelativeToolTip": "Repository\\Implementation\\Repository.cs",
               "ViewState": "AQIAAD0AAAAAAAAAAAAswGMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -384,11 +401,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 25,
               "Title": "OrderService.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Service\\Implementation\\OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Service\\Implementation\\OrderService.cs",
               "RelativeDocumentMoniker": "Service\\Implementation\\OrderService.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Service\\Implementation\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Service\\Implementation\\OrderService.cs",
               "RelativeToolTip": "Service\\Implementation\\OrderService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -396,19 +413,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 26,
               "Title": "OrderRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Implementation\\OrderRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Implementation\\OrderRepository.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\Implementation\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Implementation\\OrderRepository.cs",
               "RelativeToolTip": "Repository\\Implementation\\OrderRepository.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAQwCYAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T19:11:29.666Z"
+              "WhenOpened": "2024-09-09T19:11:29.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "dbo.AspNetUsers [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_IS_Proekt_81a41bb2_ea7a_44f8_bd62_123d4bc6278a/True/SqlTable/dbo.AspNetUsers.sql",
               "ToolTip": "dbo.AspNetUsers [Data]",
@@ -417,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "dbo.Orders [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/aspnet_IS_Proekt_81a41bb2_ea7a_44f8_bd62_123d4bc6278a/True/SqlTable/dbo.Orders.sql",
               "ToolTip": "dbo.Orders [Data]",
@@ -426,11 +444,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 27,
               "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Domain\\BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Domain\\Domain\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Domain\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain\\BaseEntity.cs",
               "RelativeToolTip": "Domain\\Domain\\BaseEntity.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -438,11 +456,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Program.cs",
               "RelativeDocumentMoniker": "IS_Proekt\\Program.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Program.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Program.cs",
               "RelativeToolTip": "IS_Proekt\\Program.cs",
               "ViewState": "AQIAADIAAAAAAAAAAAAMwEEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -450,23 +468,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 2,
               "Title": "BookStoreApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Identity\\BookStoreApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Identity\\BookStoreApplicationUser.cs",
               "RelativeDocumentMoniker": "Domain\\Identity\\BookStoreApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\Identity\\BookStoreApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Identity\\BookStoreApplicationUser.cs",
               "RelativeToolTip": "Domain\\Identity\\BookStoreApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAaAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:57:11.96Z"
+              "WhenOpened": "2024-09-09T18:57:11.96Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 29,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Repository\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Repository\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\ApplicationDbContext.cs",
               "RelativeToolTip": "Repository\\ApplicationDbContext.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAA1wBgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -474,11 +493,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 30,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\API\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\API\\AdminController.cs",
               "RelativeDocumentMoniker": "IS_Proekt\\Controllers\\API\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\API\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\API\\AdminController.cs",
               "RelativeToolTip": "IS_Proekt\\Controllers\\API\\AdminController.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAowBgAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -486,23 +505,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 1,
               "Title": "UserRegistrationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\DTO\\UserRegistrationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\DTO\\UserRegistrationDto.cs",
               "RelativeDocumentMoniker": "Domain\\DTO\\UserRegistrationDto.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\Domain\\DTO\\UserRegistrationDto.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\DTO\\UserRegistrationDto.cs",
               "RelativeToolTip": "Domain\\DTO\\UserRegistrationDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAzAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:52:51.245Z"
+              "WhenOpened": "2024-09-09T18:52:51.245Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 31,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "IS_Proekt\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\BooksController.cs",
               "RelativeToolTip": "IS_Proekt\\Controllers\\BooksController.cs",
               "ViewState": "AQIAAJMAAAAAAAAAAAArwKQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -510,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 32,
               "Title": "SuccessPayment.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\ShoppingCarts\\SuccessPayment.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -522,11 +542,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 33,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\appsettings.json",
               "RelativeDocumentMoniker": "IS_Proekt\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\appsettings.json",
               "RelativeToolTip": "IS_Proekt\\appsettings.json",
               "ViewState": "AQIAAAEAAAAAAAAAAADwvxkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -534,26 +554,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
               "RelativeDocumentMoniker": "IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
               "RelativeToolTip": "IS_Proekt\\Views\\ShoppingCarts\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-09T18:23:15.497Z"
+              "WhenOpened": "2024-09-09T18:23:15.497Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 3,
               "Title": "ShoppingCartsController.cs",
-              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\ShoppingCartsController.cs",
+              "DocumentMoniker": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\ShoppingCartsController.cs",
               "RelativeDocumentMoniker": "IS_Proekt\\Controllers\\ShoppingCartsController.cs",
-              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\IS_Proekt\\Controllers\\ShoppingCartsController.cs",
+              "ToolTip": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Controllers\\ShoppingCartsController.cs",
               "RelativeToolTip": "IS_Proekt\\Controllers\\ShoppingCartsController.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAxwB4AAABHAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAiwB4AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-09T18:04:41.108Z"
+              "WhenOpened": "2024-09-09T18:04:41.108Z",
+              "EditorCaption": ""
             }
           ]
         }

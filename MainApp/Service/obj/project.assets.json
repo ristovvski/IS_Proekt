@@ -3506,11 +3506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\Bxbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Service\\obj\\",
+      "outputPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3532,11 +3532,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\Domain.csproj"
+            "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Repository\\Repository.csproj"
+            "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Repository\\Repository.csproj"
             }
           }
         }

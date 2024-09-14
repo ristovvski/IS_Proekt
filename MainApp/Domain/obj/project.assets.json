@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Bxbi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

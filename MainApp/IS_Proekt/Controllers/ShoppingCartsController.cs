@@ -29,6 +29,10 @@ namespace IS_Proekt.Controllers
         public async Task<IActionResult> Index()
         {
             var userId = User.FindFirstValue(ClaimTypes.NameIdentifier);
+            if (userId == null)
+            {
+                return Redirect("/identity/account/login");
+            }
             var dto = _shoppingCartService.GetShoppingCartInfo(userId);
             return View(dto);
         }

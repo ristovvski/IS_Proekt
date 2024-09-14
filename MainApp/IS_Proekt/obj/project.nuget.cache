@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7cxnRrNeeKn0fzs5YxmJW2/WnL4NqXmeELyNX5aeny5I9tjDg4+68+6Le6Z87s7VCpwMhVX9h+dkdStiusBsTQ==",
+  "dgSpecHash": "USm42blK+dTen27jLQo61E/O6Smy5mNk9AaT7kNsn+Z3esqqwoO9rY8DX7va26cKbTJV+wJ/tW49GsV2JURHgg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\IS_Proekt\\Web.csproj",
+  "projectFilePath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\IS_Proekt\\Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bxbi\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Bxbi\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

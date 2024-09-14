@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ue4vDmlOutW5tF2CboDkjFO8NlNb3tzwM6THp8HC+5QRJeRdhofRr4vpob27Lhjv6rViJ87KV8CZnwHh7GeJig==",
+  "dgSpecHash": "s+pxf/YbT3IF5Sg7ZiHNfki4ofemqhpN1oc2IoCWzQiWEYieyuEnTbx8XdJ7eM+cGhuwzaav8opzCEjixXiWeQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bxbi\\Source\\Repos\\IS_Proekt\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Bxbi\\source\\repos\\IS_Proekt\\MainApp\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Bxbi\\.nuget\\packages\\bouncycastle.cryptography\\2.4.0\\bouncycastle.cryptography.2.4.0.nupkg.sha512",
     "C:\\Users\\Bxbi\\.nuget\\packages\\entityframework\\6.1.0\\entityframework.6.1.0.nupkg.sha512",
