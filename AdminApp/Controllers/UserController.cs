@@ -26,7 +26,7 @@ namespace AdminApp.Controllers
 
             List<User> users = getAllUsersFromFile(file.FileName);
             HttpClient client = new HttpClient();
-            string URL = "https://localhost:7060/api/Admin/ImportAllUsers";
+            string URL = "https://isproject2024.azurewebsites.net/api/Admin/ImportAllUsers";
 
             HttpContent content = new StringContent(JsonConvert.SerializeObject(users), Encoding.UTF8, "application/json");
 

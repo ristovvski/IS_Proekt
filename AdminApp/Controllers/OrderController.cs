@@ -16,7 +16,7 @@ namespace AdminApp.Controllers
             public IActionResult Index()
             {
                 HttpClient client = new HttpClient();
-                string URL = "https://localhost:7060/api/Admin/GetAllOrders";
+                string URL = "https://isproject2024.azurewebsites.net/api/Admin/GetAllOrders";
 
                 HttpResponseMessage response = client.GetAsync(URL).Result;
                 var data = response.Content.ReadAsAsync<List<Order>>().Result;
@@ -26,7 +26,7 @@ namespace AdminApp.Controllers
             public IActionResult Details(string id)
             {
                 HttpClient client = new HttpClient();
-                string URL = "https://localhost:7060/api/Admin/GetDetails";
+                string URL = "https://isproject2024.azurewebsites.net/api/Admin/GetDetails";
                 var model = new
                 {
                     Id = id
@@ -49,7 +49,7 @@ namespace AdminApp.Controllers
             {
                 HttpClient client = new HttpClient();
 
-                string URL = "https://localhost:7060/api/Admin/GetDetails";
+                string URL = "https://isproject2024.azurewebsites.net/api/Admin/GetDetails";
                 var model = new
                 {
                     Id = id
@@ -96,7 +96,7 @@ namespace AdminApp.Controllers
                     worksheet.Cell(1, 2).Value = "Customer Name";
                     worksheet.Cell(1, 3).Value = "Total Price";
                     HttpClient client = new HttpClient();
-                    string URL = "https://localhost:7060/api/Admin/GetAllOrders";
+                    string URL = "https://isproject2024.azurewebsites.net/api/Admin/GetAllOrders";
 
                     HttpResponseMessage response = client.GetAsync(URL).Result;
                     var data = response.Content.ReadAsAsync<List<Order>>().Result;
