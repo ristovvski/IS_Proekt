@@ -1,4 +1,5 @@
-﻿using IS_Proekt.Domain;
+﻿using Domain.PetStore;
+using IS_Proekt.Domain;
 using IS_Proekt.Identity;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
@@ -20,5 +21,13 @@ namespace Repository
         {
         }
 
+    }
+    public class PetStoreDbContext : DbContext
+    {
+        public DbSet<Pet> Pet { get; set; }
+        public PetStoreDbContext(DbContextOptions<PetStoreDbContext> options)
+           : base(options)
+        {
+        }
     }
 }

@@ -1,0 +1,54 @@
+﻿@model List<Domain.PetStore.Pet>
+
+@{
+    ViewData["Title"] = "Pets";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<h1 class="text-center text-4xl font-bold mb-8 text-custom-blue">Pets Page</h1>
+
+<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+    @foreach (var pet in Model)
+    {
+        <div class="card mb-4 shadow-lg rounded-lg overflow-hidden">
+            <img src="@pet.PhotoUrl" class="card-img-top" alt="@pet.Name" />
+            <div class="p-4">
+                <h5 class="text-lg font-bold">@pet.Name</h5>
+                <p class="text-gray-700">
+                    <strong>Type:</strong> @pet.Type<br />
+                    <strong>Breed:</strong> @pet.Breed<br />
+                    <strong>Age:</strong> @pet.Age<br />
+                    <strong>Price:</strong> @pet.Price<br />
+                </p>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .card {
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        width: 20%;
+        display: inline-block;
+    }
+
+    .card-img-top {
+        object-fit: cover;
+        height: 200px; 
+    }
+
+    .card-body {
+        text-align: center;
+    }
+
+   
+    .card:hover {
+        transform: translateY(-10px);
+        transition: transform 0.3s ease;
+    }
+
+    .text-gray-700{
+        margin-bottom:5px;
+         }
+</style>
